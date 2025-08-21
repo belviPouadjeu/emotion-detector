@@ -1,0 +1,10 @@
+ibm-watson==8.1.0
+ibm-cloud-sdk-core==3.18.2
+Flask==3.0.3
+python-dotenv==1.0.1
+pytest==8.3.2
+pytest-mock==3.14.0
+requests==2.32.3
+ruff==0.6.9
+pylint==3.2.6
+black==24.8.0
